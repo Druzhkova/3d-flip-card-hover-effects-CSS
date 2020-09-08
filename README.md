@@ -1,3 +1,3 @@
-# 3d Flip Card Hover Effects | CSS Hover Effects
+# 3d flip card hover effects
 
-<a href="https://viktoriya-druzhkova.github.io/3d_Flip_Card_Hover_Effects_CSS_Hover_Effects/">Watch here - 3D flip card | CSS hover effects</a>
+<a href="https://druzhkova.github.io/3d-flip-card-hover-effects-CSS/">Watch here</a>
